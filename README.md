@@ -13,3 +13,4 @@ Dask Dataframe
 New things to refer
 May 2021
 1. https://www.atoti.io/
+2. https://pypi.org/project/dtale/
